@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Learning React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created to improve my skills in React JS. Project to rease more practise in creating template for similiar data and getting information for it from file.You can reach this page by https://marharet.github.io/travel-journal/
 
 ## Available Scripts
 
